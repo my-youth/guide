@@ -1,6 +1,0 @@
-去广告规则合集
-https://gitee.com/halflife/list/issues/I1CV06
-乘风 广告过滤规则
-https://raw.fastgit.org/xinggsf/Adblock-Plus-Rule/master/rule.txt
-CJX's uBlock list
-https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
